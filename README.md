@@ -3,6 +3,14 @@
 This is a Project of Library Management System in PHP and Mysqli
 There are two characters here  , user is Student and admin is Librarian
 
+
+ * git clone https://github.com/Imtiaze/Libraray-Management-System.git
+ * put the file in htdocs
+ * make database name 'lms'
+ * insert all the table 'lms.sql' file
+ * run the file 
+ 
+
 user/student
 
 (1) user can register in LMS, after registration student account will be activated after verified by librarian
